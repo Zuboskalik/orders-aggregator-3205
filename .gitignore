@@ -56,4 +56,5 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-orders-task/*.tar.gz
+# Архивы образов внешнего API (orders-mock-*.tar.gz) - лежат в orders-task/, в репозиторий не входят
+orders-task/
